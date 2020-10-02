@@ -3,6 +3,8 @@
 Ce projet a été réalisé dans le cadre de la formation Udemy "AdobeXD la formation complète pour débutant".
 Cette formation est disponible [ICI](https://www.udemy.com/course/adobe-xd-complet/).
 
+Plusieurs écrans seront ajoutés en fonction des évolutions imaginées pour ce projet.
+
 ## Contenu de la formation
 
 Ce cours se base sur la création d'un projet d'application mobile. Plusieurs fonctionnalités sont étudiées :
@@ -23,5 +25,5 @@ Ce cours se base sur la création d'un projet d'application mobile. Plusieurs fo
 
 ## Résultats
 
-* [Tester l'application](https://xd.adobe.com/view/c286f615-1cff-4dc8-998f-16cd07f5141f-97d5/) (Mise à jour régulière du lien en fonction des évolutions)
+* [Tester l'application](https://xd.adobe.com/view/f64d4637-f0d3-4c7a-be9a-73710a990e41-a31e/) (Mise à jour régulière du lien en fonction des évolutions)
 * [Consulter la version pdf du plan de travail](https://github.com/MrGyo/Application-Given/blob/master/app_given.pdf)
