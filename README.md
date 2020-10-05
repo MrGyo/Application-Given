@@ -11,7 +11,7 @@ Ce cours se base sur la création d'un projet d'application mobile. Plusieurs fo
 
 * La grille de répétition
 
-* Les Actifs (couleurs, polices de caractères, symboles)
+* Les actifs (couleurs, polices de caractères, symboles)
 
 * Les plugins
 
