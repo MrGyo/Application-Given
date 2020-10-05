@@ -25,5 +25,5 @@ Ce cours se base sur la création d'un projet d'application mobile. Plusieurs fo
 
 ## Résultats
 
-* [Tester l'application](https://xd.adobe.com/view/89b12279-fd20-403c-aa5b-007843e984ec-dce2/)
+* [Tester l'application](https://xd.adobe.com/view/5b72d662-08dd-411e-ad5d-cdc4a96a23f3-0e21/)
 * [Consulter la version pdf du plan de travail](https://github.com/MrGyo/Application-Given/blob/master/app_given.pdf)
