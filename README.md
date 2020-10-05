@@ -3,7 +3,7 @@
 Ce projet a été réalisé dans le cadre de la formation Udemy "AdobeXD la formation complète pour débutant".
 Cette formation est disponible [ICI](https://www.udemy.com/course/adobe-xd-complet/).
 
-Plusieurs écrans ont été ajoutés ensuite en plus de ceux créés dans le cadre de la formation. Le but étant de rendre le prototype pleinement fonctionnel.
+26 écrans ont été ajoutés ensuite en plus de ceux créés dans le cadre de la formation. Le but étant de rendre le prototype pleinement fonctionnel.
 
 ## Contenu de la formation
 
