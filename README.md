@@ -5,7 +5,7 @@ Cette formation est disponible [ICI](https://www.udemy.com/course/adobe-xd-compl
 
 17 écrans ont été créés sur la base des indications du formateur.
 
-26 écrans ont été ajoutés en plus de ceux créés dans le cadre de cette formation. Le but étant de rendre le prototype pleinement fonctionnel.
+27 écrans ont été ajoutés en plus de ceux créés dans le cadre de cette formation. Le but étant de rendre le prototype pleinement fonctionnel.
 
 ## Contenu de la formation
 
